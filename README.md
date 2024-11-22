@@ -1,0 +1,2 @@
+# SoftEngProject
+Inventory Management system
